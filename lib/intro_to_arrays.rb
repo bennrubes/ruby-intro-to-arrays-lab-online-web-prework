@@ -6,4 +6,14 @@ def array_with_two_elements
   two_elemnts = [1, 2]
 end
 
-def 
+def first_element
+  
+end
+
+def third_element
+  
+end
+
+def last_element
+  
+end
