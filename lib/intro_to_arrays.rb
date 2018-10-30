@@ -6,14 +6,27 @@ def array_with_two_elements
   two_elemnts = [1, 2]
 end
 
-def first_element
+def first_element(array)
+  array[0]
+end
+
+def third_element(array)
+  array[2]
+end
+
+def last_element(array)
+  array[-1]
+end
+
+def first_element_with_array_methods(array)
   
 end
 
-def third_element
-  
+def last_element_with_array_methods(array)
+
 end
 
-def last_element
-  
+def length_of_array(array)
+  array.length
 end
+  
